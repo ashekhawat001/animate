@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(10, 10, 10);
+    background-color: #f2f0e9;
     height: 100vh;  
     margin: 0px;
     overflow: hidden;
@@ -37,122 +37,186 @@ body {
   }
   
   .tile:nth-child(1) {
-    background-color: rgb(255, 238, 88);
-    height: 14%;
-    width: 20%;
+    background-color: #2596be;
+    height: 10%;
+    width: 15%;
     left: 5%;
     top: 5%;
   }
   
   .tile:nth-child(2) {
-    background-color: rgb(66, 165, 245);
-    height: 24%;
-    width: 14%;
-    left: 42%;
-    top: 12%;
-  }
-  
-  .tile:nth-child(3) {
-    background-color: rgb(239, 83, 80);
-    height: 18%;
-    width: 16%;
-    left: 12%;
-    top: 34%;
-  }
-  
-  .tile:nth-child(4) {
-    background-color: rgb(102, 187, 106);
-    height: 14%;
-    width: 12%;
-    left: 45%;
-    top: 48%;
-  }
-  
-  .tile:nth-child(5) {
-    background-color: rgb(171, 71, 188);
-    height: 16%;
-    width: 32%;
-    left: 8%;
-    top: 70%;
-  }
-  
-  .tile:nth-child(6) {
-    background-color: rgb(255, 167, 38);
-    height: 24%;
-    width: 24%;
-    left: 68%;
+    background-color: #40654e;
+    height: 15%;
+    width: 10%;
+    left: 49%;
     top: 8%;
   }
   
+  .tile:nth-child(3) {
+    background-color: #e4b357;
+    height: 8%;
+    width: 12%;
+    left: 10%;
+    top: 25%;
+  }
+  
+  .tile:nth-child(4) {
+    background-color: #c37a8b;
+    height: 9%;
+    width: 9%;
+    left: 52%;
+    top: 27%;
+  }
+  
+  .tile:nth-child(5) {
+    background-color: #c7ada4;
+    height: 15%;
+    width: 10%;
+    left: 16%;
+    top: 45%;
+  }
+  
+  .tile:nth-child(6) {
+    background-color: #927da9;
+    height: 8%;
+    width: 12%;
+    left: 78%;
+    top: 6%;
+  }
+  
   .tile:nth-child(7) {
-    background-color: rgb(63, 81, 181);
-    height: 16%;
-    width: 20%;
-    left: 50%;
-    top: 74%;
+    background-color: #938ab2;
+    height: 10%;
+    width: 15;
+    left: 35%;
+    top: 52%;
   }
   
   .tile:nth-child(8) {
-    background-color: rgb(141, 110, 99);
-    height: 24%;
-    width: 18%;
-    left: 72%;
+    background-color: #e6bc9e;
+    height: 12%;
+    width: 8%;
+    left: 62%;
     top: 42%;
   }
   
   .tile:nth-child(9) {
-    background-color: rgb(250, 250, 250);
-    height: 10%;
+    background-color: #eecbffb6;
+    height: 8%;
     width: 8%;
-    left: 84%;
-    top: 84%;
+    left: 30%;
+    top: 14%;
   }
   
   .tile:nth-child(10) {
-    background-color: rgb(250, 250, 250);
-    height: 10%;
-    width: 8%;
+    background-color: #ba5906;
+    height: 9%;
+    width: 9%;
     left: 84%;
-    top: 84%;
+    top: 74%;
   }
   
   .tile:nth-child(11) {
-    background-color: rgb(250, 250, 250);
+    background-color: #77968f;
     height: 10%;
-    width: 8%;
+    width: 15%;
     left: 84%;
-    top: 84%;
+    top: 56%;
   }
   
   .tile:nth-child(12) {
-    background-color: rgb(250, 250, 250);
+    background-color: #f86363;
     height: 10%;
-    width: 8%;
-    left: 84%;
+    width: 15%;
+    left: 8%;
     top: 84%;
   }
   
   .tile:nth-child(13) {
-    background-color: rgb(250, 250, 250);
+    background-color: #ebcbc0;
     height: 10%;
-    width: 8%;
-    left: 84%;
-    top: 84%;
+    width: 15%;
+    left: 45%;
+    top: 74%;
   }
   
   .tile:nth-child(14) {
-    background-color: rgb(250, 250, 250);
-    height: 10%;
-    width: 8%;
-    left: 84%;
-    top: 84%;
+    background-color: #887a47;
+    height: 15%;
+    width: 10%;
+    left: 32%;
+    top: 30%;
   }
   
   .tile:nth-child(15) {
-    background-color: rgb(250, 250, 250);
+    background-color: #a9ab72;
     height: 10%;
     width: 8%;
-    left: 84%;
+    left: 2%;
+    top: 58%;
+  }
+
+  .tile:nth-child(16) {
+    background-color: #f487a7b6;
+    height: 6%;
+    width: 8%;
+    left: 32%;
+    top: 83%;
+  }
+  .tile:nth-child(17) {
+    background-color: #609981b6;
+    height: 10%;
+    width: 15%;
+    left: 70%;
+    top: 20%;
+  }
+  
+  .tile:nth-child(18) {
+    background-color: #795e5eb6;
+    height: 6%;
+    width: 8%;
+    left: 73%;
+    top: 34%;
+  }
+  
+  .tile:nth-child(19) {
+    background-color: #87d5f4b6;
+    height: 15%;
+    width: 10%;
+    left: 87%;
+    top: 36%;
+  }
+  
+  .tile:nth-child(20) {
+    background-color: #1b4006dc;
+    height: 12%;
+    width: 8%;
+    left: 70%;
+    top: 58%;
+  }
+  
+  .tile:nth-child(21) {
+    background-color: #5d3d24b6;
+    height: 6%;
+    width: 8%;
+    left: 52%;
+    top: 64%;
+  }
+  
+  .tile:nth-child(22) {
+    background-color: #ba5fbfb6;
+    height: 15%;
+    width: 10%;
+    left: 65%;
     top: 84%;
   }
   
+  .tile:nth-child(23) {
+    background-color: #91d7fffb;
+    height: 12%;
+    width: 12%;
+    left: 20%;
+    top: 67%;
+  }
+  
+
